@@ -1,5 +1,9 @@
-- Hello, I am Plasma! 💙
-- My first introduction to programming was on Roblox's game engine!
+#### Hello there, friend, I'm Plasma
 
-- Currently the only language I write in is Lua-U, in the future I am looking into Python. ⭐
-- I first started programming in 2020.
+I got my name during my Pokemon obsession phase, it has gone through ***many*** variations!
+
+- My pronouns are (he/him/his) 💙
+- Lua/Lua-U programmer ⭐
+- In the future I'm looking to get into Python. 
+- I enjoy small games, specifically on Roblox. 🌲
+- My first introduction to programming was on Roblox's game engine 🎲
